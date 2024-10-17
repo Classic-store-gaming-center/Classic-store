@@ -1,1 +1,14 @@
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Classic Store Gaming Center</title>
+</head>
+<body>
+    <h1>Welcome to Classic Store Gaming Center</h1>
+    <p>Your one-stop shop for video games and software.</p>
+    <a href="https://api.whatsapp.com/send?phone=1234567890&text=I%20am%20interested%20in%20[Game%20Title]">Contact us on WhatsApp</a>
+</body>
+</html>
